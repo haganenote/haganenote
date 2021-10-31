@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there I am Marco👋
 
+I'm a full stack developer
 <!--
 **marcostaimusic/marcostaimusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
