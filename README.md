@@ -8,8 +8,7 @@ I'm a junior full stack developer living in Barcelona
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my website [Staimusic.com](https://www.staimusic.com/en)
-- 🌱 I’m currently learning PHP and Yii
+- 🔭 I’m currently working as fullstack developer
 - 📫 You can reach me at [my email](marco.zappani@gmail.com)
 - ⚡ Fun fact: I am a handpan maker at [HaganeNote handpan](https://www.haganenote.com)
 
