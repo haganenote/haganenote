@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 ![Heroku](https://img.shields.io/badge/-Heroku-0A1A2F?style=flat&logo=heroku)
 ![Yii](https://img.shields.io/badge/-Yii-0A1A2F?style=flat&logo=php)
 ![PHP](https://img.shields.io/badge/-PHP-0A1A2F?style=flat&logo=php)
-
+<!---
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=adobephotoshop)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-0A1A2F?style=flat&logo=adobeillustrator)
 ![Premiere](https://img.shields.io/badge/-Premier-0A1A2F?style=flat&logo=adobepremierepro)
-
+-->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcostaimusic&show_icons=true&locale=en&layout=compact" alt="marcostaimusic" /></p>
