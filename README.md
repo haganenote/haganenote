@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ![Premiere](https://img.shields.io/badge/-Premier-0A1A2F?style=flat&logo=adobepremierepro)
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcostaimusic&show_icons=true&locale=en&layout=compact" alt="marcostaimusic" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=haganenote&show_icons=true&locale=en&layout=compact" alt="haganenote" /></p>
