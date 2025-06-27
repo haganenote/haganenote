@@ -1,6 +1,6 @@
 ### Hi there I am Marco👋
 
-I'm a junior full stack developer living in Barcelona
+I'm a software engineer living in Barcelona
 
 <!--
 **marcostaimusic/marcostaimusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
